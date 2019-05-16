@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Самат\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add webpack -D
+
+PATH: 
+  C:\Users\Самат\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Самат\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Users\Самат\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Самат\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.13.0
+
+Node version: 
+  10.15.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EBUSY: resource busy or locked, copyfile 'C:\Users\Самат\AppData\Local\Yarn\Cache\v4\npm-@xtuc-long-4.2.2-d291c6a4e97989b5c61d9acf396ae4fe133a718d\node_modules\@xtuc\long\src\long.js' -> 'C:\Users\Самат\Desktop\web\study projects\webpack_app\node_modules\@xtuc\long\src\long.js'
+
+npm manifest: 
+  {
+    "name": "webpack_app",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
